@@ -55,7 +55,7 @@ drag “MDLauncher” directory into your project
 * 2018.5.11 Add README and adjust project class name.
 
 ## License
-`MDLauncher ` is released under the MIT license. See LICENSE for details.
+`MDLauncher` is released under the MIT license. See LICENSE for details.
 
 ## Communication
 
